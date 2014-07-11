@@ -1,0 +1,2 @@
+amd-jquery-no-conflict
+======================
